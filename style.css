@@ -1,5 +1,4 @@
-body {
-    background-color: #1f2937 ;  
+body { 
     margin-right: 70px;
     margin-left: 70px;
 }
@@ -8,7 +7,9 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 16px;
+    background-color: #1f2937; 
 }
+
 
 ul {
     display: flex;
@@ -32,4 +33,12 @@ ul {
     font-family: Hero, sans-serif;
     font-size: 18px;
     font-weight: 100;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: aliceblue;
+    padding: 12px;
 }
