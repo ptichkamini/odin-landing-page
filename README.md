@@ -9,4 +9,4 @@ Credits for pics:
 
 Photo by Phil Desforges: https://www.pexels.com/photo/look-up-12576276/ - blue ferris wheel
 Photo by Gabriella: https://www.pexels.com/photo/a-dog-in-a-window-12329480/ - blue dog
-Photo by Tomas Anunziata: https://www.pexels.com/photo/person-standing-on-brown-wooden-dock-on-sea-3876441/ - blie lake
+Photo by Tomas Anunziata: https://www.pexels.com/photo/person-standing-on-brown-wooden-dock-on-sea-3876441/ - blue lake

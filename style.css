@@ -82,7 +82,8 @@ button {
 }
 
 .white_container {
-    padding: 24px;
+    padding: 36px;
+    margin-bottom: 52px;
 }
 
 .random_header {
@@ -112,6 +113,33 @@ figure {
     text-align: center;
 }
 
+.gray_container {
+    background-color: #e5e7eb;
+    padding: 64px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 94px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: thin;
+    font-family: Hero, sans-serif;
+    text-align: left;
+    padding-top: 36px;
+    color: #1f2937;
+}
+
+.author{
+ font-weight: bold;
+ font-family: Hero, sans-serif;
+ font-size: 22px;
+ align-self: flex-end;
+ padding-right: 150px;
+}
 
 .footer {
     display: flex;
