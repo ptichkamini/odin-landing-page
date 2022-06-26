@@ -1,5 +1,6 @@
 body { 
     margin: 0px;
+    font-family: Hero, sans-serif;
 
 }
 
@@ -29,11 +30,9 @@ ul {
   .left-links {
     font-weight: 1000;
     font-size: 22px;
-    font-family: Hero, sans-serif;
   }
 
   .right-links {
-    font-family: Hero, sans-serif;
     font-size: 18px;
     font-weight: 100;
 }
@@ -76,7 +75,6 @@ button {
     border: none;
     margin: 12px 2px;
     color: azure;
-    font-family: Hero, sans-serif;
     font-weight: 800;
     font-size: 20px;
 }
@@ -91,7 +89,6 @@ button {
  justify-content: center;
  font-size: 36px;
  font-weight: 900;
- font-family: Hero, sans-serif;
 }
 
 .images {
@@ -127,7 +124,6 @@ figure {
     font-size: 36px;
     font-style: italic;
     font-weight: thin;
-    font-family: Hero, sans-serif;
     text-align: left;
     padding-top: 36px;
     color: #1f2937;
@@ -135,10 +131,38 @@ figure {
 
 .author{
  font-weight: bold;
- font-family: Hero, sans-serif;
  font-size: 22px;
  align-self: flex-end;
  padding-right: 150px;
+}
+
+.last_container {
+    padding: 82px;
+}
+
+.blue_box {
+    background-color: #3882f6;
+    border-radius: 8px;
+    color: azure;
+    padding: 46px;
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+sub {
+    font-weight: 100;
+    font-size: 14px;
+    padding: 0px;
+}
+
+#overlined {
+    border-style:solid;
+    border-color: #e5e7eb;
+    border-width: 2px;
+    width: 150px;
+
 }
 
 .footer {
